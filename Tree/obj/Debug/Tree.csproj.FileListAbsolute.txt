@@ -1,0 +1,6 @@
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Tree\bin\Debug\Tree.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Tree\bin\Debug\Tree.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Tree\obj\Debug\Tree.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Tree\obj\Debug\Tree.pdb

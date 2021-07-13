@@ -1,0 +1,12 @@
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\bin\Debug\Sum.exe.config
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\bin\Debug\Sum.exe
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\bin\Debug\Sum.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\bin\Debug\Tree.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\bin\Debug\Tree.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\obj\Debug\Sum.csprojResolveAssemblyReference.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\obj\Debug\Sum.Sum.resources
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\obj\Debug\Sum.Properties.Resources.resources
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\obj\Debug\Sum.csproj.GenerateResource.Cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\obj\Debug\Sum.exe
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.2\Sum\obj\Debug\Sum.pdb
